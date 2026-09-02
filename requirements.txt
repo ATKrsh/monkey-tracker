@@ -1,0 +1,7 @@
+ultralytics>=8.2.0
+PyQt6>=6.6.0
+opencv-python>=4.9.0
+pyqtgraph>=0.13.4
+numpy>=1.24.0
+Pillow>=10.0.0
+win11toast>=0.35
